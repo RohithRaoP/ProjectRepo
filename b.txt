@@ -1,0 +1,6 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println(" git commands for connectiong git hub from loca; re[pository");
+    }
+}
+
